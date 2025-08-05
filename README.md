@@ -86,32 +86,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TeddyBoyy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/TeddyBoyy/TeddyBoyy/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeddyBoyy/TeddyBoyy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeddyBoyy/TeddyBoyy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TeddyBoyy/TeddyBoyy/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TeddyBoyy.TeddyBoyy&"  />
 </div>
 
 ###
 
-![snake gif](https://github.com/TeddyBoyy/TeddyBoyy/blob/output/github-contribution-grid-snake.svg)
+
