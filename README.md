@@ -113,3 +113,5 @@
 </div>
 
 ###
+
+![snake gif](https://github.com/TeddyBoyy/TeddyBoyy/blob/output/github-contribution-grid-snake.svg)
