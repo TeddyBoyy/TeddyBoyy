@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <h3>👇🏻Touch Link👇🏻</h3>
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" 
 </div>
 ###
 <div align="center">
