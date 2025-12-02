@@ -8,10 +8,10 @@
   <a href="https://www.instagram.com/teddyboyy86?igsh=MXY2OTd6Nzdlc3VjNg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100076704626930" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61584353079168" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://youtube.com/@tumbal_laksana_channel?feature=shared" target="_blank">
+  <a href="https://youtube.com/@teddyfx_animations?si=rMYQBJcjU3XTe7zd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://x.com/Teddyboyy86?t=jgTz52s8eoHbh940wLBAng&s=09" target="_blank">
