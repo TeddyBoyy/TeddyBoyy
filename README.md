@@ -5,6 +5,9 @@
 ###
 
 <div align="center">
+  <a href="https://www.tiktok.com/@teddyfx_animations?_r=1&_t=ZS-91t876DoQxM"_blank" rel="noopener">
+  <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo" />
+</a>
   <a href="https://www.instagram.com/teddyboyy86?igsh=MXY2OTd6Nzdlc3VjNg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
