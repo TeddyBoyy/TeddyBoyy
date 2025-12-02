@@ -1,12 +1,11 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-
-###
-div align="center">
+<div align="center">
   <h3>👇🏻Touch Link👇🏻</h3>
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
+###
 <div align="center">
   <a href="https://www.tiktok.com/@teddyfx_animations?_r=1&_t=ZS-91t876DoQxM"_blank" rel="noopener">
   <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo" />
